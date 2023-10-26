@@ -4,4 +4,6 @@
 - 📖 I’m currently learning **C++ and a little bit of everything else**
 - 🌱 Ask me about **my family of 8 plants**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joao-aiveca-caseiro/), [Instagram](https://www.instagram.com/joaoaivecac/)
-<-- - ⚡ Fun fact: ... -->
+
+For my 42 projects: go here
+For everything else: go here
