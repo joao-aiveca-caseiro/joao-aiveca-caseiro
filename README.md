@@ -6,5 +6,5 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joao-aiveca-caseiro/), [Instagram](https://www.instagram.com/joaoaivecac/)
 
 ### Check out the stuff I've been coding!
-- For my 42 projects: go [here](https://github.com/joao-aiveca-caseiro/42-common-core)
+- For my 42 School projects: go [here](https://github.com/joao-aiveca-caseiro/42-common-core)
 - For everything else: go [here](https://github.com/joao-aiveca-caseiro/personal-projects)
