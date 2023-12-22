@@ -1,8 +1,8 @@
 ### Hello there, I'm João. Nice to meet you! 👋
 
-- 💻 I’m currently working on **webserv, a 42 Common Core project**
+- 💻 I’m currently working on **ft_transcendence, the last 42 Common Core project**
 - 📖 I’m currently learning **C++ and a little bit of everything else**
-- 🌱 Ask me about **my family of 8 plants**
+- 🌱 Ask me about **my family of 9 plants**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joao-aiveca-caseiro/), [Instagram](https://www.instagram.com/joaoaivecac/)
 
 ### Check out the stuff I've been coding!
